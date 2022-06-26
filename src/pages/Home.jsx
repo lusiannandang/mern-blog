@@ -1,0 +1,14 @@
+import React from 'react'
+
+function Home() {
+  return (
+    <div className="mb-20">
+        <h1 className="sm:text-4xl text-2xl font-bold mt-6 mb-6 text-gray-900">Hallo, Selamat datang di blog saya!</h1>
+        <p className="mx-auto leading-relaxed text-base mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit repudiandae tempora dolorum enim officiis saepe, atque distinctio accusamus omnis fugiat nihil in animi. Accusamus nostrum, expedita deleniti incidunt voluptate recusandae quas nesciunt, quos earum mollitia obcaecati culpa maxime et, sunt reiciendis eum quisquam qui unde distinctio? Numquam fuga pariatur laboriosam libero consequatur accusantium a, molestiae mollitia aliquam itaque quidem doloremque in excepturi non rem. Ipsam commodi veniam iusto, debitis quia doloremque reiciendis praesentium nemo fugiat sed hic autem, maxime earum. Laborum officia quam saepe impedit earum necessitatibus illum iusto, tempore reiciendis quas dolorem quod neque, sunt ex aspernatur sit tempora.</p>
+        <p className="mx-auto leading-relaxed text-base mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit repudiandae tempora dolorum enim officiis saepe, atque distinctio accusamus omnis fugiat nihil in animi. Accusamus nostrum, expedita deleniti incidunt voluptate recusandae quas nesciunt, quos earum mollitia obcaecati culpa maxime et, sunt reiciendis eum quisquam qui unde distinctio? Numquam fuga pariatur laboriosam libero consequatur accusantium a, molestiae mollitia aliquam itaque quidem doloremque in excepturi non rem. Ipsam commodi veniam iusto, debitis quia doloremque reiciendis praesentium nemo fugiat sed hic autem, maxime earum. Laborum officia quam saepe impedit earum necessitatibus illum iusto, tempore reiciendis quas dolorem quod neque, sunt ex aspernatur sit tempora.</p>
+        <p className="mx-auto leading-relaxed text-base mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit repudiandae tempora dolorum enim officiis saepe, atque distinctio accusamus omnis fugiat nihil in animi. Accusamus nostrum, expedita deleniti incidunt voluptate recusandae quas nesciunt, quos earum mollitia obcaecati culpa maxime et, sunt reiciendis eum quisquam qui unde distinctio? Numquam fuga pariatur laboriosam libero consequatur accusantium a, molestiae mollitia aliquam itaque quidem doloremque in excepturi non rem. Ipsam commodi veniam iusto, debitis quia doloremque reiciendis praesentium nemo fugiat sed hic autem, maxime earum. Laborum officia quam saepe impedit earum necessitatibus illum iusto, tempore reiciendis quas dolorem quod neque, sunt ex aspernatur sit tempora.</p>
+    </div>
+  )
+}
+
+export default Home
